@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/calculator.iml" filepath="$PROJECT_DIR$/calculator.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lokesh step.iml" filepath="$PROJECT_DIR$/.idea/lokesh step.iml" />
+>>>>>>> b0703d23399e61db9607a329a200ccec6ebbc510
     </modules>
   </component>
 </project>
